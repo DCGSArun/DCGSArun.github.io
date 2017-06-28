@@ -23,6 +23,12 @@ body {
   color: $darkGray;
 }
 
+div {
+    background: url(img_flwr.gif);
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
